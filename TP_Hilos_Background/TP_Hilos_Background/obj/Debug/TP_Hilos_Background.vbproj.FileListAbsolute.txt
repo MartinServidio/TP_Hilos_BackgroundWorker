@@ -1,0 +1,12 @@
+D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\bin\Debug\TP_Hilos_Background.exe.config
+D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\bin\Debug\TP_Hilos_Background.exe
+D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\bin\Debug\TP_Hilos_Background.pdb
+D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\bin\Debug\TP_Hilos_Background.xml
+D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.Form1.resources
+D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.Resources.resources
+D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.vbproj.GenerateResource.cache
+D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.vbproj.CoreCompileInputs.cache
+D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.exe
+D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.xml
+D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.pdb
+D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.vbprojAssemblyReference.cache
