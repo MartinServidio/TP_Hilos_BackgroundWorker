@@ -10,3 +10,15 @@ D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Backgr
 D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.xml
 D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.pdb
 D:\Tareas 2022\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.vbproj.AssemblyReference.cache
+C:\Users\sec200903_0101\Desktop\TP_Hilos_Background\TP_Hilos_Background\bin\Debug\TP_Hilos_Background.exe.config
+C:\Users\sec200903_0101\Desktop\TP_Hilos_Background\TP_Hilos_Background\bin\Debug\TP_Hilos_Background.exe
+C:\Users\sec200903_0101\Desktop\TP_Hilos_Background\TP_Hilos_Background\bin\Debug\TP_Hilos_Background.pdb
+C:\Users\sec200903_0101\Desktop\TP_Hilos_Background\TP_Hilos_Background\bin\Debug\TP_Hilos_Background.xml
+C:\Users\sec200903_0101\Desktop\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.vbprojAssemblyReference.cache
+C:\Users\sec200903_0101\Desktop\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.Form1.resources
+C:\Users\sec200903_0101\Desktop\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.Resources.resources
+C:\Users\sec200903_0101\Desktop\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.vbproj.GenerateResource.cache
+C:\Users\sec200903_0101\Desktop\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.vbproj.CoreCompileInputs.cache
+C:\Users\sec200903_0101\Desktop\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.exe
+C:\Users\sec200903_0101\Desktop\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.xml
+C:\Users\sec200903_0101\Desktop\TP_Hilos_Background\TP_Hilos_Background\obj\Debug\TP_Hilos_Background.pdb
